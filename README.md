@@ -9,7 +9,9 @@ read tha data.
 train and test both.
 #inspect the variables.
 #step 2.
-merge data. 
-add descriptive levels .
+merge data Train and Test.
+calculate measurements on the mean and standard deviation for each measurement.
+Appropriately labels the data set with descriptive variable names.
 #step 3.
-write data and creat tidy dataset.
+using the merge data write the data and creat tidy dataset.
+
