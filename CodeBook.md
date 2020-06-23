@@ -7,12 +7,12 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ##Codebook
 Their exist this diffrent kinds of value for existing variable.
-1test/subject_test.txt,
-2.test/X_test.txt, 
-3.test/y_test.txt ,
-4.train/subject_train.txt
-5.train/X_train.txt 
-6.train/y_train.txt.
+#1test/subject_test.txt,
+#2.test/X_test.txt, 
+#3.test/y_test.txt ,
+#4.train/subject_train.txt
+#5.train/X_train.txt 
+#6.train/y_train.txt.
 ##
  Variables activity and subject and names of the activities have been labelled using descriptive names.In this part, Names of Feteatures will labelled using descriptive variable names.
 
